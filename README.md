@@ -2,7 +2,7 @@
 
 # The Grace British Bake Off
 
-[Vist our website here](https://grace-shopper-e.onrender.com/)
+[Vist our website here](https://grace-british-bakeoff.onrender.com/)
 
 E-commerce site selling baked goods. Our pastries are based on our favorite bakery show 'The Great British Bake Off'.
 
@@ -10,10 +10,10 @@ E-commerce site selling baked goods. Our pastries are based on our favorite bake
 
 ## Team
 
+- [Christine Zheng](https://www.linkedin.com/in/zchristine/)
 - [Lauren Baca](https://www.linkedin.com/in/laurenmhbaca/)
 - [Allie Wang](https://www.linkedin.com/in/allie-hc-wang/)
 - [Siyun Feng](https://www.linkedin.com/in/siyunfeng/)
-- [Christine Zheng](https://www.linkedin.com/in/zchristine/)
 
 ## Technologies
 
